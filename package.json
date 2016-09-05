@@ -1,0 +1,9 @@
+{
+  "name": "jscs-preset-google-custom",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soulteary/jscs-preset-google-custom.git"
+  },
+  "homepage": "https://github.com/soulteary/jscs-preset-google-custom#readme"
+}
